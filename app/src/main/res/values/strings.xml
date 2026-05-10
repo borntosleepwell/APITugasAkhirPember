@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestPages</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_daftar">Daftar</string>
+
+    <string-array name="prodi_array">
+        <item>Pilih Prodi</item>
+        <item>Teknik Informatika</item>
+        <item>Teknik Sipil</item>
+        <item>Teknik Elektro</item>
+        <item>Teknik Industri</item>
+        <item>Teknik Arsitektur</item>
+    </string-array>
+</resources>
