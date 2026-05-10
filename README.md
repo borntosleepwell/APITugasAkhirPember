@@ -33,7 +33,7 @@ Aplikasi Android sederhana berbasis Kotlin yang mendemonstrasikan integrasi API 
 4. **Tampilan List**: Data pasien (Nama, Tgl Lahir, Jenis Kelamin, Alamat, dan Telepon) ditampilkan ke dalam `RecyclerView`.
 5. **Logout**: Menghapus token dari penyimpanan dan kembali ke layar login.
 
-## 📂 Struktur Folder Penting
+## 📂 Struktur Folder
 
 - `model/`: Data Class untuk response API (Login & Pasien).
 - `network/`: Konfigurasi Retrofit dan definisi interface API.
